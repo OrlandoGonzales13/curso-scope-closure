@@ -8,6 +8,8 @@
 // moneyBox(5);
 // moneyBox(5);
 
+
+
 function moneyBox() {
     let saveCoins = 0
     function countCoins(coins) {
